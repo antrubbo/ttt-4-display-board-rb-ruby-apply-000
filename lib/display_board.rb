@@ -3,6 +3,7 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def display_board(board)
+  rows = board[0]
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
